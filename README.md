@@ -1,0 +1,1 @@
+This is the official code repository for the paper [Efficient Scientific Full Text Classification: The Case of EICAT Impact Assessments](https://arxiv.org/abs/2502.06551) by Marc Felix Brinner and Sina Zarrieß.
