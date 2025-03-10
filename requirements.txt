@@ -1,0 +1,6 @@
+blingfire==0.1.8
+numpy==2.2.3
+scikit_learn==1.6.1
+torch==2.6.0+cu124
+tqdm==4.66.4
+transformers==4.49.0
